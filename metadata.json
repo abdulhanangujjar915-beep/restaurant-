@@ -1,0 +1,6 @@
+{
+  "name": "ZAQA – Taste of Pakistan",
+  "description": "Premium Pakistani Desi Restaurant offering authentic culinary heritage, slow-cooked karahis, dum biryani, and charcoal BBQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
