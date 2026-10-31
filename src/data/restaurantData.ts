@@ -59,11 +59,11 @@ export const RESTAURANT_INFO = {
 
 // Generated authentic high-resolution images
 export const IMAGES = {
-  hero: '/src/assets/images/hero_pakistani_feast_1793367002950.jpg',
-  muttonKarahi: '/src/assets/images/food_mutton_karahi_1793367003328.jpg',
-  chickenBiryani: '/src/assets/images/food_chicken_biryani_1793367003965.jpg',
-  bbqPlatter: '/src/assets/images/food_bbq_platter_1793367005083.jpg',
-  beefNihari: '/src/assets/images/food_beef_nihari_1793367004776.jpg',
+  hero: '/assets/images/hero_pakistani_feast_1793367002950.jpg',
+  muttonKarahi: '/assets/images/food_mutton_karahi_1793367003328.jpg',
+  chickenBiryani: '/assets/images/food_chicken_biryani_1793367003965.jpg',
+  bbqPlatter: '/assets/images/food_bbq_platter_1793367005083.jpg',
+  beefNihari: '/assets/images/food_beef_nihari_1793367004776.jpg',
 };
 
 export const MENU_ITEMS: MenuItem[] = [
